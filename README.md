@@ -33,7 +33,9 @@
    ```bash
    npx eslint .
 
-**Note:** Ignore errors in `riceCooker.js` when running the linter as it is a compiled file and should not be modified directly.
+**Note:** 
+- At present, the continuous integration (CI) process has not been established due to a problem with a private key.
+- Ignore errors in `riceCooker.js` when running the linter as it is a compiled file and should not be modified directly.
 
 
 
