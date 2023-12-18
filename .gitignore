@@ -1,0 +1,6 @@
+/target/
+Cargo.lock
+rice_cooker 
+node_modules/
+dist/
+package-lock.json
